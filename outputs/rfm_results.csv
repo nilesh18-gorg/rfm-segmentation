@@ -1,0 +1,501 @@
+customer_id,recency,frequency,monetary,rfm_label,segment,cluster
+C0001,67,14,865.91,353,Promising,Cluster 3
+C0002,8,10,1426.7209000000005,535,Promising,Cluster 3
+C0003,223,9,467.4,121,Need Attention,Cluster 4
+C0004,49,10,421.23,331,Promising,Cluster 1
+C0005,11,15,1628.5809000000004,555,Champions,Cluster 2
+C0006,226,4,586.8,111,Lost,Cluster 4
+C0007,37,11,1707.9809000000005,435,Promising,Cluster 2
+C0008,68,14,1108.05,254,Loyal Customers,Cluster 3
+C0009,3,9,934.42,523,Potential Loyalists,Cluster 3
+C0010,37,9,1015.12,423,Potential Loyalists,Cluster 3
+C0011,113,7,659.33,212,Others,Cluster 1
+C0012,62,18,1378.33,355,Loyal Customers,Cluster 2
+C0013,111,10,1474.1,235,Need Attention,Cluster 3
+C0014,40,14,1106.57,354,Loyal Customers,Cluster 3
+C0015,117,9,530.59,221,Need Attention,Cluster 1
+C0016,206,6,1101.56,114,Lost,Cluster 4
+C0017,15,12,865.45,543,Promising,Cluster 3
+C0018,50,4,104.07,311,Others,Cluster 1
+C0019,101,10,1249.96,234,Need Attention,Cluster 3
+C0020,115,13,1083.21,244,Loyal Customers,Cluster 3
+C0021,3,12,692.09,542,Promising,Cluster 3
+C0022,142,9,1004.4699999999999,123,Need Attention,Cluster 3
+C0023,33,8,935.5,423,Potential Loyalists,Cluster 3
+C0024,59,4,261.47,311,Others,Cluster 1
+C0025,57,14,1858.13,355,Loyal Customers,Cluster 2
+C0026,53,9,598.53,322,Others,Cluster 1
+C0027,1,7,613.1,512,Potential Loyalists,Cluster 1
+C0028,46,10,573.9300000000001,331,Promising,Cluster 1
+C0029,166,10,997.24,133,Need Attention,Cluster 4
+C0030,21,8,641.39,422,Potential Loyalists,Cluster 1
+C0031,247,5,438.03999999999996,111,Lost,Cluster 4
+C0032,444,5,300.33,111,Lost,Cluster 4
+C0033,42,4,509.40999999999997,311,Others,Cluster 1
+C0034,1,8,913.04,523,Potential Loyalists,Cluster 3
+C0035,71,15,2024.5609000000004,255,Loyal Customers,Cluster 2
+C0036,84,10,662.5799999999999,232,Need Attention,Cluster 1
+C0037,24,10,1277.3509000000004,434,Promising,Cluster 3
+C0038,22,11,567.59,431,Promising,Cluster 3
+C0039,86,19,1865.8700000000001,255,Loyal Customers,Cluster 2
+C0040,3,9,653.95,522,Potential Loyalists,Cluster 1
+C0041,120,13,1887.77,145,Loyal Customers,Cluster 2
+C0042,13,15,1469.43,555,Champions,Cluster 2
+C0043,160,7,350.81,111,Lost,Cluster 4
+C0044,102,9,996.61,223,Need Attention,Cluster 3
+C0045,32,6,468.58000000000004,411,Potential Loyalists,Cluster 1
+C0046,73,10,1270.78,234,Need Attention,Cluster 3
+C0047,5,16,1305.53,555,Champions,Cluster 2
+C0048,32,6,665.65,412,Potential Loyalists,Cluster 1
+C0049,28,13,1631.6299999999999,445,Champions,Cluster 2
+C0050,35,8,500.14,421,Potential Loyalists,Cluster 1
+C0051,15,14,1213.58,554,Champions,Cluster 2
+C0052,66,6,788.6399999999999,312,Others,Cluster 1
+C0053,49,9,546.89,321,Others,Cluster 1
+C0054,99,11,751.4,232,Need Attention,Cluster 3
+C0055,44,9,694.86,322,Others,Cluster 1
+C0056,43,5,426.82,311,Others,Cluster 1
+C0057,98,6,307.61,211,Others,Cluster 1
+C0058,57,10,489.27,331,Promising,Cluster 1
+C0059,29,12,690.84,442,Promising,Cluster 3
+C0060,3,10,1159.57,534,Promising,Cluster 3
+C0061,178,10,1413.37,135,Need Attention,Cluster 4
+C0062,11,11,1657.8909000000003,535,Promising,Cluster 2
+C0063,5,15,1523.79,555,Champions,Cluster 2
+C0064,85,6,252.65,211,Others,Cluster 1
+C0065,34,9,904.1,423,Potential Loyalists,Cluster 3
+C0066,2,11,757.69,532,Promising,Cluster 3
+C0067,23,9,1041.6109000000006,424,Potential Loyalists,Cluster 3
+C0068,66,9,988.72,323,Others,Cluster 3
+C0069,14,13,1379.8700000000001,545,Champions,Cluster 2
+C0070,99,9,829.38,223,Need Attention,Cluster 1
+C0071,48,2,340.82,311,Others,Cluster 1
+C0072,2,12,1033.6200000000001,544,Champions,Cluster 3
+C0073,284,10,917.55,133,Need Attention,Cluster 4
+C0074,13,5,275.17,511,Potential Loyalists,Cluster 1
+C0075,38,14,1317.28,455,Champions,Cluster 2
+C0076,84,13,1384.75,245,Loyal Customers,Cluster 2
+C0077,124,6,609.7,112,Lost,Cluster 1
+C0078,54,9,551.7,321,Others,Cluster 1
+C0079,194,6,864.08,113,Lost,Cluster 4
+C0080,184,5,441.06000000000006,111,Lost,Cluster 4
+C0081,40,9,434.47,321,Others,Cluster 1
+C0082,5,12,1150.62,544,Champions,Cluster 3
+C0083,235,5,501.15999999999997,111,Lost,Cluster 4
+C0084,32,15,1295.93,454,Champions,Cluster 2
+C0085,48,5,580.04,311,Others,Cluster 1
+C0086,19,14,1623.0900000000001,455,Champions,Cluster 2
+C0087,31,9,812.42,423,Potential Loyalists,Cluster 3
+C0088,179,4,395.29,111,Lost,Cluster 4
+C0089,153,10,832.1800000000001,133,Need Attention,Cluster 4
+C0090,26,14,1867.9509000000005,455,Champions,Cluster 2
+C0091,125,3,71.57,111,Lost,Cluster 1
+C0092,11,14,1454.6,555,Champions,Cluster 2
+C0093,154,9,678.79,122,Need Attention,Cluster 4
+C0094,144,3,172.81,111,Lost,Cluster 1
+C0095,81,10,1634.6409000000006,235,Need Attention,Cluster 2
+C0096,16,9,579.9799999999999,421,Potential Loyalists,Cluster 1
+C0097,57,7,568.66,311,Others,Cluster 1
+C0098,11,12,1230.51,544,Champions,Cluster 3
+C0099,195,15,1359.97,155,Loyal Customers,Cluster 2
+C0100,5,9,395.88,521,Potential Loyalists,Cluster 1
+C0101,16,15,1558.68,455,Champions,Cluster 2
+C0102,24,10,1187.29,434,Promising,Cluster 3
+C0103,9,8,603.76,522,Potential Loyalists,Cluster 1
+C0104,3,13,1023.8199999999999,543,Promising,Cluster 3
+C0105,60,7,630.52,312,Others,Cluster 1
+C0106,103,10,1165.36,234,Need Attention,Cluster 3
+C0107,101,9,929.85,223,Need Attention,Cluster 3
+C0108,20,12,1177.31,444,Champions,Cluster 3
+C0109,80,11,2193.1927000000014,235,Need Attention,Cluster 2
+C0110,11,5,528.28,511,Potential Loyalists,Cluster 1
+C0111,22,15,1623.2609000000004,455,Champions,Cluster 2
+C0112,31,8,1087.6909000000005,424,Potential Loyalists,Cluster 3
+C0113,45,18,978.66,353,Promising,Cluster 2
+C0114,267,9,640.49,122,Need Attention,Cluster 4
+C0115,13,6,601.69,512,Potential Loyalists,Cluster 1
+C0116,38,10,863.36,433,Promising,Cluster 3
+C0117,82,16,1621.48,255,Loyal Customers,Cluster 2
+C0118,229,14,824.4300000000001,153,At Risk,Cluster 4
+C0119,73,10,1278.4099999999999,234,Need Attention,Cluster 3
+C0120,43,11,1086.4,334,Promising,Cluster 3
+C0121,27,8,740.62,422,Potential Loyalists,Cluster 1
+C0122,10,12,710.39,542,Promising,Cluster 3
+C0123,203,5,413.63,111,Lost,Cluster 4
+C0124,49,10,1328.98,335,Promising,Cluster 3
+C0125,78,10,1067.5,234,Need Attention,Cluster 3
+C0126,17,13,1154.88,444,Champions,Cluster 3
+C0127,201,11,805.71,133,Need Attention,Cluster 4
+C0128,74,12,1485.8400000000001,245,Loyal Customers,Cluster 2
+C0129,14,11,781.76,532,Promising,Cluster 3
+C0130,3,14,1318.38,555,Champions,Cluster 2
+C0131,3,12,969.1899999999999,543,Promising,Cluster 3
+C0132,129,8,733.8199999999999,122,Need Attention,Cluster 1
+C0133,125,12,1690.41,145,Loyal Customers,Cluster 2
+C0134,109,11,945.76,233,Need Attention,Cluster 3
+C0135,329,5,421.6,111,Lost,Cluster 4
+C0136,29,13,1581.56,445,Champions,Cluster 2
+C0137,48,8,898.1,323,Others,Cluster 1
+C0138,71,7,819.89,213,Others,Cluster 1
+C0139,36,6,829.42,413,Potential Loyalists,Cluster 1
+C0140,9,5,611.01,512,Potential Loyalists,Cluster 1
+C0141,82,11,1066.8799999999999,234,Need Attention,Cluster 3
+C0142,50,10,1299.49,335,Promising,Cluster 3
+C0143,5,14,1194.55,554,Champions,Cluster 2
+C0144,44,13,1745.71,345,Loyal Customers,Cluster 2
+C0145,48,13,1053.31,344,Loyal Customers,Cluster 3
+C0146,40,12,555.42,341,Promising,Cluster 3
+C0147,55,18,1813.64,355,Loyal Customers,Cluster 2
+C0148,31,13,1129.25,444,Champions,Cluster 3
+C0149,13,14,1189.85,554,Champions,Cluster 2
+C0150,119,10,1476.74,135,Need Attention,Cluster 3
+C0151,109,10,1726.9509000000003,235,Need Attention,Cluster 2
+C0152,50,18,1908.04,355,Loyal Customers,Cluster 2
+C0153,2,11,1303.5,545,Champions,Cluster 3
+C0154,6,18,1511.74,555,Champions,Cluster 2
+C0155,7,7,900.3309000000004,513,Potential Loyalists,Cluster 1
+C0156,54,9,395.19,321,Others,Cluster 1
+C0157,128,10,702.1999999999999,132,Need Attention,Cluster 1
+C0158,29,15,1403.14,455,Champions,Cluster 2
+C0159,66,6,1042.2609000000004,314,Others,Cluster 1
+C0160,34,17,1587.86,455,Champions,Cluster 2
+C0161,22,17,1185.54,454,Champions,Cluster 2
+C0162,14,9,492.22,521,Potential Loyalists,Cluster 1
+C0163,50,12,1234.47,344,Loyal Customers,Cluster 3
+C0164,14,15,986.8,553,Promising,Cluster 3
+C0165,27,10,1064.53,434,Promising,Cluster 3
+C0166,73,7,638.93,212,Others,Cluster 1
+C0167,37,8,678.2,422,Potential Loyalists,Cluster 1
+C0168,163,7,671.23,112,Lost,Cluster 4
+C0169,128,6,344.48,111,Lost,Cluster 1
+C0170,227,11,729.64,142,At Risk,Cluster 4
+C0171,114,6,689.5,212,Others,Cluster 1
+C0172,56,11,621.5,342,Promising,Cluster 3
+C0173,130,17,1663.1,155,Loyal Customers,Cluster 2
+C0174,182,8,793.83,123,Need Attention,Cluster 4
+C0175,92,9,1200.6100000000001,224,Need Attention,Cluster 3
+C0176,201,9,685.97,122,Need Attention,Cluster 4
+C0177,50,12,921.72,343,Promising,Cluster 3
+C0178,37,12,955.4499999999999,443,Promising,Cluster 3
+C0179,57,9,1024.6709000000005,324,Others,Cluster 3
+C0180,181,8,907.8100000000001,123,Need Attention,Cluster 4
+C0181,65,8,470.07,321,Others,Cluster 1
+C0182,78,6,1003.14,213,Others,Cluster 1
+C0183,67,12,565.61,341,Promising,Cluster 3
+C0184,17,10,987.1509000000004,433,Promising,Cluster 3
+C0185,214,3,180.31,111,Lost,Cluster 4
+C0186,21,8,814.84,423,Potential Loyalists,Cluster 1
+C0187,63,7,865.0,313,Others,Cluster 1
+C0188,73,17,1785.1909000000005,255,Loyal Customers,Cluster 2
+C0189,54,7,723.97,312,Others,Cluster 1
+C0190,1,13,1189.95,544,Champions,Cluster 3
+C0191,81,10,1164.03,234,Need Attention,Cluster 3
+C0192,6,17,2394.4809000000005,555,Champions,Cluster 2
+C0193,320,5,345.18,111,Lost,Cluster 4
+C0194,125,8,702.15,122,Need Attention,Cluster 1
+C0195,118,8,685.66,122,Need Attention,Cluster 1
+C0196,88,13,1113.16,244,Loyal Customers,Cluster 3
+C0197,33,4,256.92,411,Potential Loyalists,Cluster 1
+C0198,10,13,1496.23,545,Champions,Cluster 2
+C0199,119,6,689.55,112,Lost,Cluster 1
+C0200,45,5,524.4,311,Others,Cluster 1
+C0201,81,12,1350.77,245,Loyal Customers,Cluster 2
+C0202,22,12,1340.98,445,Champions,Cluster 3
+C0203,91,9,817.33,223,Need Attention,Cluster 1
+C0204,4,6,375.64,511,Potential Loyalists,Cluster 1
+C0205,73,4,977.24,213,Others,Cluster 1
+C0206,163,7,1024.31,124,Need Attention,Cluster 4
+C0207,33,6,547.93,411,Potential Loyalists,Cluster 1
+C0208,106,8,778.6800000000001,222,Need Attention,Cluster 1
+C0209,235,5,793.73,113,Lost,Cluster 4
+C0210,166,8,1039.1809000000003,124,Need Attention,Cluster 4
+C0211,306,6,704.38,112,Lost,Cluster 4
+C0212,475,4,395.25,111,Lost,Cluster 4
+C0213,6,13,1470.24,545,Champions,Cluster 2
+C0214,27,13,962.54,443,Promising,Cluster 3
+C0215,11,14,725.9,552,Promising,Cluster 3
+C0216,32,12,1007.48,443,Promising,Cluster 3
+C0217,33,11,1455.66,445,Champions,Cluster 3
+C0218,106,12,1023.33,243,At Risk,Cluster 3
+C0219,291,6,294.64,111,Lost,Cluster 4
+C0220,18,14,1069.33,454,Champions,Cluster 3
+C0221,45,6,506.08,311,Others,Cluster 1
+C0222,30,10,1494.6709000000003,435,Promising,Cluster 3
+C0223,43,14,1338.29,355,Loyal Customers,Cluster 2
+C0224,25,13,1091.04,454,Champions,Cluster 3
+C0225,11,10,1088.25,534,Promising,Cluster 3
+C0226,18,13,1564.12,455,Champions,Cluster 2
+C0227,42,17,2353.32,355,Loyal Customers,Cluster 2
+C0228,120,10,1305.75,135,Need Attention,Cluster 3
+C0229,136,13,796.35,153,At Risk,Cluster 3
+C0230,170,5,582.9300000000001,111,Lost,Cluster 4
+C0231,69,12,676.38,242,At Risk,Cluster 3
+C0232,73,9,1000.18,223,Need Attention,Cluster 3
+C0233,38,14,908.37,453,Promising,Cluster 3
+C0234,57,6,382.01,311,Others,Cluster 1
+C0235,49,6,698.6600000000001,312,Others,Cluster 1
+C0236,11,10,472.28,531,Promising,Cluster 1
+C0237,11,11,1297.4309000000005,545,Champions,Cluster 3
+C0238,133,7,723.18,122,Need Attention,Cluster 1
+C0239,15,12,1257.4099999999999,544,Champions,Cluster 3
+C0240,3,6,695.74,512,Potential Loyalists,Cluster 1
+C0241,169,6,911.26,113,Lost,Cluster 4
+C0242,8,11,1122.65,544,Champions,Cluster 3
+C0243,206,10,556.94,131,Need Attention,Cluster 4
+C0244,113,4,499.27,211,Others,Cluster 1
+C0245,63,6,527.98,311,Others,Cluster 1
+C0246,207,9,593.25,122,Need Attention,Cluster 4
+C0247,27,11,1237.12,444,Champions,Cluster 3
+C0248,147,5,563.13,111,Lost,Cluster 4
+C0249,56,9,557.8199999999999,321,Others,Cluster 1
+C0250,194,11,1425.17,145,Loyal Customers,Cluster 4
+C0251,63,13,1671.8118000000009,355,Loyal Customers,Cluster 2
+C0252,3,11,721.81,542,Promising,Cluster 3
+C0253,70,8,670.79,222,Need Attention,Cluster 1
+C0254,52,10,963.05,333,Promising,Cluster 3
+C0255,122,7,641.17,122,Need Attention,Cluster 1
+C0256,47,8,662.12,322,Others,Cluster 1
+C0257,17,10,1139.81,434,Promising,Cluster 3
+C0258,52,10,1083.26,334,Promising,Cluster 3
+C0259,95,12,1175.06,244,Loyal Customers,Cluster 3
+C0260,74,14,1225.69,254,Loyal Customers,Cluster 2
+C0261,97,11,1012.09,243,At Risk,Cluster 3
+C0262,94,12,1675.4,245,Loyal Customers,Cluster 2
+C0263,30,7,566.41,421,Potential Loyalists,Cluster 1
+C0264,50,17,1177.76,354,Loyal Customers,Cluster 2
+C0265,82,8,767.31,222,Need Attention,Cluster 1
+C0266,10,8,810.1,523,Potential Loyalists,Cluster 1
+C0267,16,13,977.16,453,Promising,Cluster 3
+C0268,21,15,1567.06,455,Champions,Cluster 2
+C0269,78,9,622.09,222,Need Attention,Cluster 1
+C0270,18,9,687.06,422,Potential Loyalists,Cluster 1
+C0271,81,11,621.69,242,At Risk,Cluster 3
+C0272,89,5,276.62,211,Others,Cluster 1
+C0273,4,12,624.86,542,Promising,Cluster 3
+C0274,38,6,967.1618000000009,413,Potential Loyalists,Cluster 1
+C0275,135,10,1017.61,133,Need Attention,Cluster 3
+C0276,49,5,660.12,312,Others,Cluster 1
+C0277,31,16,1521.53,455,Champions,Cluster 2
+C0278,280,6,582.94,111,Lost,Cluster 4
+C0279,278,7,1169.7909000000004,124,Need Attention,Cluster 4
+C0280,9,10,578.02,531,Promising,Cluster 1
+C0281,61,9,657.65,332,Promising,Cluster 1
+C0282,5,11,1237.54,544,Champions,Cluster 3
+C0283,111,10,738.41,232,Need Attention,Cluster 3
+C0284,9,11,934.6499999999999,543,Promising,Cluster 3
+C0285,14,14,1256.6499999999999,554,Champions,Cluster 2
+C0286,121,12,1074.0700000000002,144,Loyal Customers,Cluster 3
+C0287,188,7,917.13,123,Need Attention,Cluster 4
+C0288,82,17,1462.48,255,Loyal Customers,Cluster 2
+C0289,9,15,1313.4,555,Champions,Cluster 2
+C0290,40,9,902.02,333,Promising,Cluster 3
+C0291,34,10,896.13,433,Promising,Cluster 3
+C0292,44,8,664.84,322,Others,Cluster 1
+C0293,5,15,779.21,552,Promising,Cluster 3
+C0294,120,12,1225.79,144,Loyal Customers,Cluster 3
+C0295,1,10,904.22,533,Promising,Cluster 3
+C0296,80,7,523.11,221,Need Attention,Cluster 1
+C0297,39,4,680.5809000000004,312,Others,Cluster 1
+C0298,198,4,189.99,111,Lost,Cluster 4
+C0299,194,3,155.07,111,Lost,Cluster 4
+C0300,43,7,722.62,322,Others,Cluster 1
+C0301,3,14,1239.45,554,Champions,Cluster 2
+C0302,85,16,1694.49,255,Loyal Customers,Cluster 2
+C0303,116,16,1504.17,255,Loyal Customers,Cluster 2
+C0304,79,11,1211.5,244,Loyal Customers,Cluster 3
+C0305,40,15,1557.22,355,Loyal Customers,Cluster 2
+C0306,12,6,425.64000000000004,511,Potential Loyalists,Cluster 1
+C0307,5,9,1267.5509000000004,534,Promising,Cluster 3
+C0308,2,10,707.01,532,Promising,Cluster 3
+C0309,43,8,821.19,323,Others,Cluster 1
+C0310,6,13,1495.51,555,Champions,Cluster 2
+C0311,182,11,1287.1399999999999,144,Loyal Customers,Cluster 4
+C0312,31,9,696.73,432,Promising,Cluster 1
+C0313,5,13,1163.24,554,Champions,Cluster 3
+C0314,49,12,1880.8409000000004,345,Loyal Customers,Cluster 2
+C0315,168,6,670.4300000000001,112,Lost,Cluster 4
+C0316,27,14,1213.53,454,Champions,Cluster 2
+C0317,52,6,457.4,311,Others,Cluster 1
+C0318,10,13,1212.37,554,Champions,Cluster 3
+C0319,64,11,1230.75,344,Loyal Customers,Cluster 3
+C0320,89,13,1335.44,255,Loyal Customers,Cluster 2
+C0321,15,9,1023.55,533,Promising,Cluster 3
+C0322,11,4,197.05,511,Potential Loyalists,Cluster 1
+C0323,81,10,1186.7809000000004,234,Need Attention,Cluster 3
+C0324,95,12,1174.28,244,Loyal Customers,Cluster 3
+C0325,24,12,1552.2509000000005,445,Champions,Cluster 2
+C0326,21,10,1139.01,434,Promising,Cluster 3
+C0327,120,7,620.71,122,Need Attention,Cluster 1
+C0328,15,13,1424.8400000000001,555,Champions,Cluster 2
+C0329,147,7,592.13,121,Need Attention,Cluster 4
+C0330,19,11,1202.3709000000003,444,Champions,Cluster 3
+C0331,128,7,759.52,122,Need Attention,Cluster 1
+C0332,6,7,578.4300000000001,521,Potential Loyalists,Cluster 1
+C0333,177,6,580.64,111,Lost,Cluster 4
+C0334,41,8,764.91,322,Others,Cluster 1
+C0335,10,8,673.36,522,Potential Loyalists,Cluster 1
+C0336,15,10,845.46,533,Promising,Cluster 3
+C0337,5,9,925.23,533,Promising,Cluster 3
+C0338,102,11,907.26,243,At Risk,Cluster 3
+C0339,112,5,467.3,211,Others,Cluster 1
+C0340,57,10,785.34,332,Promising,Cluster 3
+C0341,5,11,842.76,543,Promising,Cluster 3
+C0342,65,14,1501.41,355,Loyal Customers,Cluster 2
+C0343,39,7,1137.2,324,Others,Cluster 3
+C0344,31,14,1663.27,455,Champions,Cluster 2
+C0345,255,10,1233.67,134,Need Attention,Cluster 4
+C0346,3,9,626.9399999999999,532,Promising,Cluster 1
+C0347,20,9,1230.69,434,Promising,Cluster 3
+C0348,4,8,1240.31,524,Potential Loyalists,Cluster 3
+C0349,50,14,1210.56,354,Loyal Customers,Cluster 2
+C0350,23,12,1316.6399999999999,445,Champions,Cluster 3
+C0351,8,4,310.84,511,Potential Loyalists,Cluster 1
+C0352,59,9,619.05,332,Promising,Cluster 1
+C0353,23,10,637.36,432,Promising,Cluster 1
+C0354,22,13,1010.2,453,Promising,Cluster 3
+C0355,28,10,761.35,432,Promising,Cluster 3
+C0356,117,8,620.01,222,Need Attention,Cluster 1
+C0357,55,8,616.75,322,Others,Cluster 1
+C0358,111,6,504.7,211,Others,Cluster 1
+C0359,124,11,932.12,143,At Risk,Cluster 3
+C0360,1,14,745.73,552,Promising,Cluster 3
+C0361,65,11,1160.01,344,Loyal Customers,Cluster 3
+C0362,38,6,474.65,411,Potential Loyalists,Cluster 1
+C0363,32,9,737.49,432,Promising,Cluster 1
+C0364,40,14,1169.71,354,Loyal Customers,Cluster 2
+C0365,51,16,1273.55,354,Loyal Customers,Cluster 2
+C0366,38,9,1255.7509000000005,434,Promising,Cluster 3
+C0367,63,7,539.92,321,Others,Cluster 1
+C0368,90,3,272.01,211,Others,Cluster 1
+C0369,164,15,1416.8400000000001,155,Loyal Customers,Cluster 2
+C0370,141,7,455.64,121,Need Attention,Cluster 1
+C0371,16,14,856.06,453,Promising,Cluster 3
+C0372,140,6,399.09000000000003,111,Lost,Cluster 1
+C0373,32,9,839.7709000000004,433,Promising,Cluster 3
+C0374,125,12,1103.92,144,Loyal Customers,Cluster 3
+C0375,8,11,838.5999999999999,543,Promising,Cluster 3
+C0376,70,15,886.76,253,At Risk,Cluster 3
+C0377,101,8,1182.5609000000004,224,Need Attention,Cluster 3
+C0378,17,7,568.1,421,Potential Loyalists,Cluster 1
+C0379,181,13,828.25,153,At Risk,Cluster 4
+C0380,30,15,1182.43,454,Champions,Cluster 2
+C0381,149,11,1085.04,144,Loyal Customers,Cluster 3
+C0382,71,9,854.87,233,Need Attention,Cluster 3
+C0383,287,6,561.53,111,Lost,Cluster 4
+C0384,41,10,1402.3899999999999,335,Promising,Cluster 3
+C0385,38,10,852.1300000000001,433,Promising,Cluster 3
+C0386,56,12,1010.56,343,Promising,Cluster 3
+C0387,66,13,861.1600000000001,353,Promising,Cluster 3
+C0388,138,10,1779.5818000000008,135,Need Attention,Cluster 2
+C0389,37,5,600.69,412,Potential Loyalists,Cluster 1
+C0390,2,8,402.68,521,Potential Loyalists,Cluster 1
+C0391,19,11,823.37,443,Promising,Cluster 3
+C0392,306,8,1196.35,124,Need Attention,Cluster 4
+C0393,7,13,1671.02,555,Champions,Cluster 2
+C0394,7,9,503.68,531,Promising,Cluster 1
+C0395,3,11,891.9699999999999,543,Promising,Cluster 3
+C0396,28,8,825.75,423,Potential Loyalists,Cluster 1
+C0397,87,14,1592.9,255,Loyal Customers,Cluster 2
+C0398,38,9,1184.1399999999999,434,Promising,Cluster 3
+C0399,12,13,1295.89,554,Champions,Cluster 2
+C0400,58,12,595.15,342,Promising,Cluster 3
+C0401,42,14,1285.72,354,Loyal Customers,Cluster 2
+C0402,2,9,903.45,533,Promising,Cluster 3
+C0403,32,12,1301.69,445,Champions,Cluster 3
+C0404,35,9,1072.8600000000001,434,Promising,Cluster 3
+C0405,92,13,1411.21,255,Loyal Customers,Cluster 2
+C0406,68,10,1085.9309000000005,234,Need Attention,Cluster 3
+C0407,82,14,1251.6100000000001,254,Loyal Customers,Cluster 2
+C0408,111,11,1395.38,245,Loyal Customers,Cluster 3
+C0409,43,11,1373.8,345,Loyal Customers,Cluster 3
+C0410,208,8,940.04,123,Need Attention,Cluster 4
+C0411,52,9,995.1509000000004,333,Promising,Cluster 3
+C0412,311,5,414.43,111,Lost,Cluster 4
+C0413,147,5,677.27,112,Lost,Cluster 4
+C0414,31,11,804.71,443,Promising,Cluster 3
+C0415,1,8,361.79,521,Potential Loyalists,Cluster 1
+C0416,69,9,1341.04,235,Need Attention,Cluster 3
+C0417,145,16,1398.18,155,Loyal Customers,Cluster 2
+C0418,5,11,935.3100000000001,543,Promising,Cluster 3
+C0419,57,10,638.99,332,Promising,Cluster 1
+C0420,22,14,1281.43,454,Champions,Cluster 2
+C0421,56,6,135.26,311,Others,Cluster 1
+C0422,45,14,1634.8,355,Loyal Customers,Cluster 2
+C0423,92,8,1245.15,224,Need Attention,Cluster 3
+C0424,5,17,2007.1,555,Champions,Cluster 2
+C0425,133,13,1200.34,154,Loyal Customers,Cluster 3
+C0426,4,8,791.16,522,Potential Loyalists,Cluster 1
+C0427,110,10,664.7800000000001,232,Need Attention,Cluster 1
+C0428,32,10,1086.51,434,Promising,Cluster 3
+C0429,23,7,555.03,421,Potential Loyalists,Cluster 1
+C0430,58,7,643.76,322,Others,Cluster 1
+C0431,28,12,1069.1,444,Champions,Cluster 3
+C0432,1,12,947.61,543,Promising,Cluster 3
+C0433,339,4,186.48,111,Lost,Cluster 4
+C0434,73,8,527.99,221,Need Attention,Cluster 1
+C0435,71,19,2304.6709000000005,255,Loyal Customers,Cluster 2
+C0436,53,11,732.66,342,Promising,Cluster 3
+C0437,63,9,1023.59,333,Promising,Cluster 3
+C0438,199,6,653.59,112,Lost,Cluster 4
+C0439,30,6,652.4,412,Potential Loyalists,Cluster 1
+C0440,29,11,348.28,441,Promising,Cluster 1
+C0441,112,12,1092.58,244,Loyal Customers,Cluster 3
+C0442,96,9,733.26,232,Need Attention,Cluster 1
+C0443,3,14,1084.57,554,Champions,Cluster 3
+C0444,71,12,1444.5,245,Loyal Customers,Cluster 2
+C0445,91,14,1416.28,255,Loyal Customers,Cluster 2
+C0446,5,15,1354.16,555,Champions,Cluster 2
+C0447,96,10,555.92,231,Need Attention,Cluster 1
+C0448,179,6,677.98,112,Lost,Cluster 4
+C0449,96,8,632.88,222,Need Attention,Cluster 1
+C0450,40,17,970.01,353,Promising,Cluster 2
+C0451,79,8,1240.34,224,Need Attention,Cluster 3
+C0452,243,6,358.76,111,Lost,Cluster 4
+C0453,68,7,602.6700000000001,222,Need Attention,Cluster 1
+C0454,3,12,1427.4299999999998,545,Champions,Cluster 2
+C0455,65,11,1000.3100000000001,343,Promising,Cluster 3
+C0456,78,11,819.0899999999999,243,At Risk,Cluster 3
+C0457,69,9,664.14,232,Need Attention,Cluster 1
+C0458,12,6,466.96000000000004,511,Potential Loyalists,Cluster 1
+C0459,11,15,1487.44,555,Champions,Cluster 2
+C0460,16,10,863.39,433,Promising,Cluster 3
+C0461,143,13,1406.11,155,Loyal Customers,Cluster 2
+C0462,68,11,1269.8509000000004,244,Loyal Customers,Cluster 3
+C0463,46,11,847.82,343,Promising,Cluster 3
+C0464,46,6,700.45,312,Others,Cluster 1
+C0465,63,8,994.8900000000001,323,Others,Cluster 3
+C0466,38,12,1193.94,444,Champions,Cluster 3
+C0467,52,8,740.99,322,Others,Cluster 1
+C0468,26,8,736.1899999999999,422,Potential Loyalists,Cluster 1
+C0469,56,10,1090.99,334,Promising,Cluster 3
+C0470,111,7,826.03,223,Need Attention,Cluster 1
+C0471,103,12,979.3399999999999,243,At Risk,Cluster 3
+C0472,241,10,784.1999999999999,132,Need Attention,Cluster 4
+C0473,19,11,815.16,443,Promising,Cluster 3
+C0474,38,12,1128.62,444,Champions,Cluster 3
+C0475,117,10,1591.1709000000005,235,Need Attention,Cluster 2
+C0476,130,19,2640.731800000001,155,Loyal Customers,Cluster 2
+C0477,116,13,1629.17,255,Loyal Customers,Cluster 2
+C0478,11,11,1094.04,544,Champions,Cluster 3
+C0479,122,4,446.88,111,Lost,Cluster 1
+C0480,125,5,764.3509000000004,112,Lost,Cluster 1
+C0481,9,10,963.26,533,Promising,Cluster 3
+C0482,90,11,980.71,243,At Risk,Cluster 3
+C0483,6,12,1678.5809000000004,545,Champions,Cluster 2
+C0484,13,6,285.99,511,Potential Loyalists,Cluster 1
+C0485,73,16,1879.52,255,Loyal Customers,Cluster 2
+C0486,33,9,421.69,431,Promising,Cluster 1
+C0487,113,6,401.55,211,Others,Cluster 1
+C0488,83,6,661.45,212,Others,Cluster 1
+C0489,134,8,979.6509000000004,123,Need Attention,Cluster 4
+C0490,31,9,484.93,431,Promising,Cluster 1
+C0491,19,8,709.3,422,Potential Loyalists,Cluster 1
+C0492,290,9,733.14,132,Need Attention,Cluster 4
+C0493,33,11,887.67,443,Promising,Cluster 3
+C0494,33,12,865.5899999999999,443,Promising,Cluster 3
+C0495,48,8,396.66,321,Others,Cluster 1
+C0496,91,8,378.95,221,Need Attention,Cluster 1
+C0497,4,16,1089.18,554,Champions,Cluster 2
+C0498,5,9,891.62,533,Promising,Cluster 3
+C0499,11,9,677.76,532,Promising,Cluster 1
+C0500,69,18,1939.55,255,Loyal Customers,Cluster 2
