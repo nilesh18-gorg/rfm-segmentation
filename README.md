@@ -1,4 +1,3 @@
-Markdown
 # Customer Segmentation: RFM Analysis & K-Means Clustering
 
 A complete data pipeline that processes e-commerce transactions to categorize customers based on their purchasing behavior. It uses traditional rule-based RFM (Recency, Frequency, Monetary) scoring and validates the business logic using K-Means machine learning clustering.
@@ -16,6 +15,7 @@ A complete data pipeline that processes e-commerce transactions to categorize cu
 
 git clone [https://github.com/YOUR_USERNAME/rfm-segmentation.git](https://github.com/YOUR_USERNAME/rfm-segmentation.git)
 cd rfm-segmentation
+
 **2. Create and activate a virtual environment:**
 
 python3 -m venv rfm_env
